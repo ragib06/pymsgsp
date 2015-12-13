@@ -1,0 +1,7 @@
+Number of length 1 sequential patterns: 5
+pattern: <{45}> count: 176
+pattern: <{46}> count: 215
+pattern: <{47}> count: 263
+pattern: <{48}> count: 264
+pattern: <{49}> count: 187
+

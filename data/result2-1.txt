@@ -1,0 +1,68 @@
+Number of length 1 sequential patterns: 43
+pattern: <{1}> count: 10
+pattern: <{2}> count: 42
+pattern: <{3}> count: 48
+pattern: <{4}> count: 36
+pattern: <{5}> count: 28
+pattern: <{8}> count: 64
+pattern: <{9}> count: 59
+pattern: <{10}> count: 84
+pattern: <{11}> count: 65
+pattern: <{13}> count: 95
+pattern: <{14}> count: 52
+pattern: <{15}> count: 94
+pattern: <{16}> count: 83
+pattern: <{17}> count: 144
+pattern: <{18}> count: 78
+pattern: <{20}> count: 140
+pattern: <{22}> count: 78
+pattern: <{23}> count: 88
+pattern: <{24}> count: 162
+pattern: <{25}> count: 116
+pattern: <{26}> count: 114
+pattern: <{27}> count: 160
+pattern: <{28}> count: 162
+pattern: <{29}> count: 129
+pattern: <{31}> count: 145
+pattern: <{32}> count: 167
+pattern: <{33}> count: 118
+pattern: <{34}> count: 164
+pattern: <{35}> count: 220
+pattern: <{36}> count: 232
+pattern: <{37}> count: 176
+pattern: <{38}> count: 205
+pattern: <{39}> count: 200
+pattern: <{40}> count: 161
+pattern: <{41}> count: 156
+pattern: <{42}> count: 221
+pattern: <{43}> count: 293
+pattern: <{44}> count: 253
+pattern: <{45}> count: 176
+pattern: <{46}> count: 215
+pattern: <{47}> count: 263
+pattern: <{48}> count: 264
+pattern: <{49}> count: 187
+
+Number of length 2 sequential patterns: 9
+pattern: <{2}, {5}> count: 9
+pattern: <{2}, {7}> count: 9
+pattern: <{2}, {9}> count: 9
+pattern: <{2}, {14}> count: 9
+pattern: <{2}, {21}> count: 10
+pattern: <{3, 4}> count: 14
+pattern: <{13}, {3}> count: 14
+pattern: <{22}, {3}> count: 14
+pattern: <{22}, {4}> count: 14
+
+Number of length 3 sequential patterns: 6
+pattern: <{2}, {5}, {7}> count: 9
+pattern: <{2}, {5}, {14}> count: 9
+pattern: <{2}, {14}, {7}> count: 9
+pattern: <{13}, {3, 4}> count: 14
+pattern: <{22}, {3, 4}> count: 14
+pattern: <{22}, {13}, {3}> count: 14
+
+Number of length 4 sequential patterns: 2
+pattern: <{2}, {5}, {14}, {7}> count: 9
+pattern: <{22}, {13}, {3, 4}> count: 14
+

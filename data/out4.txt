@@ -1,0 +1,13 @@
+Number of length 1 sequential patterns: 2
+pattern: <{1}> count: 2
+pattern: <{2}> count: 2
+
+Number of length 2 sequential patterns: 4
+pattern: <{1}, {1}> count: 1
+pattern: <{1, 2}> count: 1
+pattern: <{1}, {2}> count: 1
+pattern: <{2}, {2}> count: 1
+
+Number of length 3 sequential patterns: 1
+pattern: <{1}, {1, 2}> count: 1
+

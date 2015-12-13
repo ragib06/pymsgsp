@@ -1,0 +1,59 @@
+Number of length 1 sequential patterns: 6
+pattern: <{50}> count: 4
+pattern: <{10}> count: 2
+pattern: <{20}> count: 2
+pattern: <{70}> count: 4
+pattern: <{90}> count: 2
+pattern: <{80}> count: 3
+
+Number of length 2 sequential patterns: 10
+pattern: <{50}, {10}> count: 2
+pattern: <{20}, {50}> count: 1
+pattern: <{30}, {50}> count: 1
+pattern: <{50, 60}> count: 1
+pattern: <{50}, {70}> count: 3
+pattern: <{50}, {90}> count: 1
+pattern: <{50, 80}> count: 1
+pattern: <{50}, {80}> count: 2
+pattern: <{10, 80}> count: 2
+pattern: <{70}, {90}> count: 2
+
+Number of length 3 sequential patterns: 14
+pattern: <{50}, {10}, {70}> count: 1
+pattern: <{50}, {10, 70}> count: 1
+pattern: <{50}, {10, 80}> count: 2
+pattern: <{20}, {50}, {10}> count: 1
+pattern: <{20}, {50}, {70}> count: 1
+pattern: <{20}, {50}, {80}> count: 1
+pattern: <{30}, {50}, {10}> count: 1
+pattern: <{30, 20}, {50}> count: 1
+pattern: <{30}, {50}, {70}> count: 1
+pattern: <{30}, {50}, {80}> count: 1
+pattern: <{50, 60, 80}> count: 1
+pattern: <{50}, {70}, {90}> count: 1
+pattern: <{50}, {70, 80}> count: 1
+pattern: <{50}, {80}, {70}> count: 1
+
+Number of length 4 sequential patterns: 11
+pattern: <{50}, {10, 70, 80}> count: 1
+pattern: <{50}, {10, 80}, {70}> count: 1
+pattern: <{20}, {50}, {10, 70}> count: 1
+pattern: <{20}, {50}, {10, 80}> count: 1
+pattern: <{20}, {50}, {70, 80}> count: 1
+pattern: <{30}, {50}, {10, 70}> count: 1
+pattern: <{30}, {50}, {10, 80}> count: 1
+pattern: <{30, 20}, {50}, {10}> count: 1
+pattern: <{30, 20}, {50}, {70}> count: 1
+pattern: <{30, 20}, {50}, {80}> count: 1
+pattern: <{30}, {50}, {70, 80}> count: 1
+
+Number of length 5 sequential patterns: 5
+pattern: <{20}, {50}, {10, 70, 80}> count: 1
+pattern: <{30}, {50}, {10, 70, 80}> count: 1
+pattern: <{30, 20}, {50}, {10, 70}> count: 1
+pattern: <{30, 20}, {50}, {10, 80}> count: 1
+pattern: <{30, 20}, {50}, {70, 80}> count: 1
+
+Number of length 6 sequential patterns: 1
+pattern: <{30, 20}, {50}, {10, 70, 80}> count: 1
+

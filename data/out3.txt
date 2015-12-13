@@ -1,0 +1,70 @@
+Number of length 1 sequential patterns: 4
+pattern: <{2}> count: 4
+pattern: <{3}> count: 4
+pattern: <{4}> count: 3
+pattern: <{1}> count: 4
+
+Number of length 2 sequential patterns: 12
+pattern: <{2}, {2}> count: 1
+pattern: <{2, 3}> count: 3
+pattern: <{2}, {3}> count: 1
+pattern: <{3}, {2}> count: 4
+pattern: <{1, 2}> count: 2
+pattern: <{2}, {1}> count: 1
+pattern: <{1}, {2}> count: 3
+pattern: <{3}, {3}> count: 3
+pattern: <{1, 3}> count: 3
+pattern: <{3}, {1}> count: 2
+pattern: <{1}, {3}> count: 3
+pattern: <{4}, {4}> count: 1
+
+Number of length 3 sequential patterns: 20
+pattern: <{2}, {2, 3}> count: 1
+pattern: <{2, 3}, {2}> count: 1
+pattern: <{2, 3}, {3}> count: 1
+pattern: <{2, 3}, {1}> count: 1
+pattern: <{3}, {2, 3}> count: 3
+pattern: <{3}, {1, 2}> count: 2
+pattern: <{3, 1}, {2}> count: 2
+pattern: <{1, 2}, {2}> count: 1
+pattern: <{1, 2, 3}> count: 2
+pattern: <{1, 2}, {3}> count: 1
+pattern: <{1, 2}, {1}> count: 1
+pattern: <{2}, {1, 2}> count: 1
+pattern: <{2}, {1, 3}> count: 1
+pattern: <{1}, {2, 3}> count: 2
+pattern: <{1}, {3}, {2}> count: 1
+pattern: <{1}, {1, 2}> count: 1
+pattern: <{1, 3}, {3}> count: 2
+pattern: <{1, 3}, {1}> count: 1
+pattern: <{3}, {1, 3}> count: 2
+pattern: <{1}, {1, 3}> count: 1
+
+Number of length 4 sequential patterns: 15
+pattern: <{2, 3}, {2, 3}> count: 1
+pattern: <{2, 3}, {1, 2}> count: 1
+pattern: <{2, 3}, {1, 3}> count: 1
+pattern: <{3}, {1, 2, 3}> count: 2
+pattern: <{3, 1}, {2, 3}> count: 2
+pattern: <{3, 1}, {1, 2}> count: 1
+pattern: <{1, 2}, {2, 3}> count: 1
+pattern: <{1, 2, 3}, {2}> count: 1
+pattern: <{1, 2, 3}, {3}> count: 1
+pattern: <{1, 2, 3}, {1}> count: 1
+pattern: <{1, 2}, {1, 2}> count: 1
+pattern: <{1, 2}, {1, 3}> count: 1
+pattern: <{2}, {1, 2, 3}> count: 1
+pattern: <{1}, {1, 2, 3}> count: 1
+pattern: <{1, 3}, {1, 3}> count: 1
+
+Number of length 5 sequential patterns: 6
+pattern: <{2, 3}, {1, 2, 3}> count: 1
+pattern: <{3, 1}, {1, 2, 3}> count: 1
+pattern: <{1, 2, 3}, {2, 3}> count: 1
+pattern: <{1, 2, 3}, {1, 2}> count: 1
+pattern: <{1, 2, 3}, {1, 3}> count: 1
+pattern: <{1, 2}, {1, 2, 3}> count: 1
+
+Number of length 6 sequential patterns: 1
+pattern: <{1, 2, 3}, {1, 2, 3}> count: 1
+

@@ -1,0 +1,83 @@
+Number of length 1 sequential patterns: 44
+pattern: <{1}> count: 1
+pattern: <{2}> count: 3
+pattern: <{3}> count: 2
+pattern: <{4}> count: 2
+pattern: <{5}> count: 3
+pattern: <{6}> count: 2
+pattern: <{7}> count: 2
+pattern: <{8}> count: 3
+pattern: <{9}> count: 5
+pattern: <{10}> count: 7
+pattern: <{11}> count: 3
+pattern: <{12}> count: 4
+pattern: <{13}> count: 6
+pattern: <{14}> count: 4
+pattern: <{15}> count: 5
+pattern: <{16}> count: 4
+pattern: <{17}> count: 6
+pattern: <{19}> count: 5
+pattern: <{20}> count: 8
+pattern: <{21}> count: 5
+pattern: <{23}> count: 7
+pattern: <{24}> count: 9
+pattern: <{26}> count: 9
+pattern: <{27}> count: 11
+pattern: <{28}> count: 11
+pattern: <{29}> count: 8
+pattern: <{30}> count: 8
+pattern: <{32}> count: 13
+pattern: <{34}> count: 11
+pattern: <{35}> count: 15
+pattern: <{36}> count: 12
+pattern: <{37}> count: 11
+pattern: <{38}> count: 14
+pattern: <{39}> count: 12
+pattern: <{40}> count: 11
+pattern: <{41}> count: 11
+pattern: <{42}> count: 16
+pattern: <{43}> count: 21
+pattern: <{44}> count: 19
+pattern: <{45}> count: 11
+pattern: <{46}> count: 17
+pattern: <{47}> count: 20
+pattern: <{48}> count: 16
+pattern: <{49}> count: 15
+
+Number of length 2 sequential patterns: 11
+pattern: <{2}, {5}> count: 1
+pattern: <{2}, {7}> count: 1
+pattern: <{2}, {9}> count: 1
+pattern: <{2, 13}> count: 1
+pattern: <{2}, {13}> count: 1
+pattern: <{2}, {14}> count: 1
+pattern: <{2}, {21}> count: 1
+pattern: <{2}, {25}> count: 1
+pattern: <{4}, {22}> count: 1
+pattern: <{4, 33}> count: 1
+pattern: <{33}, {4}> count: 1
+
+Number of length 3 sequential patterns: 11
+pattern: <{2}, {5}, {7}> count: 1
+pattern: <{2}, {5, 13}> count: 1
+pattern: <{2}, {5}, {14}> count: 1
+pattern: <{2}, {9, 25}> count: 1
+pattern: <{2, 13}, {5}> count: 1
+pattern: <{2, 13}, {13}> count: 1
+pattern: <{2, 13}, {14}> count: 1
+pattern: <{2}, {13}, {14}> count: 1
+pattern: <{2}, {14}, {7}> count: 1
+pattern: <{4}, {22}, {22}> count: 1
+pattern: <{33}, {4}, {22}> count: 1
+
+Number of length 4 sequential patterns: 6
+pattern: <{2}, {5, 13}, {14}> count: 1
+pattern: <{2}, {5}, {14}, {7}> count: 1
+pattern: <{2, 13}, {5, 13}> count: 1
+pattern: <{2, 13}, {5}, {14}> count: 1
+pattern: <{2, 13}, {13}, {14}> count: 1
+pattern: <{33}, {4}, {22}, {22}> count: 1
+
+Number of length 5 sequential patterns: 1
+pattern: <{2, 13}, {5, 13}, {14}> count: 1
+

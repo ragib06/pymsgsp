@@ -1,0 +1,20 @@
+Dear all,
+
+We have started our first project. The deadline is Sept 29, 2015. The
+attached are two sample files: one is the data file, and the other is the
+parameter file. Note that SDC means support difference constraint. The final
+test files for demo will be of the same format, but will only be given to
+you on Sept 29, 2015 at the noon time.
+
+Your output file should look like this:
+
+The number of length 1 sequential patterns is 20
+Pattern:  <{2}>  Count:  4
+.....
+
+The number of length 2 sequential patterns is 7
+Pattern:  <{2}{5}>  Count:  1
+......
+
+The number of length 3 sequential patterns is 5
+Pattern:  <{2}{5}{7}>  Count:  1
