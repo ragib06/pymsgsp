@@ -22,5 +22,5 @@
 
 
 5. Contact:
-    -Ragib Ahsan(rahsan3@uic.edu, UIN: 660018239)
-    -Hasan Iqbal(hiqbal4@uic.edu, UIN: 679912558)
+    -Ragib Ahsan(rahsan3@uic.edu)
+    -Hasan Iqbal(hiqbal4@uic.edu)
